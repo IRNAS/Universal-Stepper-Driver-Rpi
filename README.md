@@ -16,7 +16,7 @@ Here you can find documentation for Universal stepper driver in shape of Raspber
 - 2x LED
 - 1x push button
 
-
+![board_3D](https://raw.githubusercontent.com/VojislavM/Universal-Stepper-Driver-Rpi/master/boards3D.png)
 
 #### Hardware
 Schematics and PCB are designed with open source EDA tool KiCad, all nesesery design files are in this repository.
