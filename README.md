@@ -26,6 +26,9 @@ Firmware and all the nessery documentation for Universal Stepper Driver RPi can 
 
 This is currently in testing phase.
 
+#### Known Isues
+- Universal serial connector footprint is not good, need to be changed
+
 ---
 
 #### License
